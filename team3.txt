@@ -1,3 +1,6 @@
 ipod
 ipod touch
 itunes	
+]
+internet browser safari
+>>>>>>> safari
